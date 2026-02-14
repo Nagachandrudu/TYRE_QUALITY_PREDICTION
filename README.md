@@ -1,4 +1,4 @@
-# 🚗  Tyre Quality Prediction System
+# 🚗 Tyre Quality Prediction System
 
 This project implements an **AI-based tyre inspection system** using **Deep Learning** to classify tyre images as **Good** or **Defective**.  
 It is designed for **industrial quality inspection**, **academic projects**, and **research demonstrations**.
