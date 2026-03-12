@@ -1,13 +1,9 @@
-
+https://github.com/user-attachments/assets/6a48c8d1-b907-43bf-8fa0-d07a18847fc3
 # 🚗 Tyre Quality Prediction System
 
 This project implements an **AI-based tyre inspection system** using **Deep Learning** to classify tyre images as **Good** or **Defective**.  
 It is designed for **industrial quality inspection**, **academic projects**, and **research demonstrations**.
 ---
-Demo:
-https://github.com/user-attachments/assets/6a48c8d1-b907-43bf-8fa0-d07a18847fc3
-
-
 ## 📌 Project Overview
 
 Manual tyre inspection is time-consuming and error-prone.  
